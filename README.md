@@ -15,4 +15,4 @@ A simple memory-game created in VanillaJS in the purpose of learning events and 
 
 ### Preview
 
-[Memory-game]()
+[Memory-game](https://mmalak7.github.io/memory-game/)
