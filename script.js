@@ -100,6 +100,7 @@ function setUp() {
                     completeCell(clickedArray[0]);
                     completeCell(clickedArray[1]);
 
+
                     clickedArray = [];
 
                     if (numCompleted == 8) {
