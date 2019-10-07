@@ -1,0 +1,22 @@
+body {
+    background-color: #d56e74;
+}
+
+.tableContainer {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+table,
+td {
+    border: 1px solid black;
+    margin: auto;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: #0b6299;
+}
