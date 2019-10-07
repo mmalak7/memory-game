@@ -1,2 +1,2 @@
 # memory-game
-memory-game in VanillaJS
+A simple memory-game created in VanillaJS. 
