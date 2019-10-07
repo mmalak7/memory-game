@@ -3,8 +3,8 @@ A simple memory-game created in VanillaJS in the purpose of learning events and 
 
 ## Software Used
 
-* [Vanilla JS] 
-* [CSS]
+* [Vanilla JS](http://vanilla-js.com/)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Project learning goals
 
